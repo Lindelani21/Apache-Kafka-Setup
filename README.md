@@ -7,8 +7,6 @@ This project demonstrates how to set up and use Apache Kafka with Python. It inc
 - Kafka setup using Python
 - Simple Kafka producer
 - Simple Kafka consumer
-- Configuration examples
-- Local testing with Kafka (Docker or local install)
 
 ---
 
